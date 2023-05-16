@@ -4,6 +4,8 @@
 
 Ta valfritt Reactprojekt och installera Cypress till det och skriv tester.
 
+Övning shopping cart: https://gist.github.com/zocom-christoffer-wallenberg/e45196d9c60f36c82a6d4de899500bc0
+
 ## Artiklar
 
 Cypress: https://www.cypress.io/app/#browser_testing
